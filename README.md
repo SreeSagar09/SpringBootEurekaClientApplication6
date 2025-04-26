@@ -1,0 +1,1 @@
+A Simple Netflix Eureka Client as Consumer application and accessing end point by using LoadBalancerClient:

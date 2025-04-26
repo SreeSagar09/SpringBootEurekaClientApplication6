@@ -1,0 +1,8 @@
+A Simple Netflix Eureka Client as Consumer application and accessing end point by using LoadBalancerClient:
+Programs:
+* SpringBootClientApplication6Application.java
+* ConsumerController.java
+Notes:
+* The LoadBalancerClient interface is used to provide client side load balancing.
+Output:
+http://localhost:9801/consumer/getData
